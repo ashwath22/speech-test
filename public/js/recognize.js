@@ -23,7 +23,7 @@
 
 'use strict';
 
-console.log('Im here!!');
+console.log('Im here lol!!');
 
 function streamingMicRecognize (encoding, sampleRate) {
   // [START speech_streaming_mic_recognize]
